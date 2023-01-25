@@ -1,6 +1,6 @@
 ﻿namespace FMSWebApp
 {
-    public class Class
+    public class vaishnaviacharya
     {
     }
 }
