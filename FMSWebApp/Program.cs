@@ -12,7 +12,7 @@ var app = builder.Build();
     app.UseHsts();
 
 
-app.UseStaticFiles(); 
+app.UseStaticFiles(); //Comment 
 
 app.UseRouting();
 
